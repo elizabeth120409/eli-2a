@@ -1,0 +1,5 @@
+#programa payasos y muñecas
+c1=int(input("numero de payasos vendidos"))
+c2=int(input("numero de muñecas vendidas"))
+peso=(c1*112)+(c2*75)
+print("el peso total del paquete es de:",peso,"g")

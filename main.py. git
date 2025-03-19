@@ -1,0 +1,5 @@
+#Programa de sumar numeros
+N1=int(input("ingresar el primer numero"))
+N2=int(input("ingresar el segundo numero"))
+suma=N1+N2
+print("la suma de:",N1,"+",N2,"es:",suma)
